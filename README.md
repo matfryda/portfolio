@@ -13,7 +13,7 @@ I am a civil engineer by education. Since 2018, I have been working in the IT in
 * Snipping Tool
 
 ## Tech Stack
-* ISTQB: Foundation Level (26.04.2023 exam)
+* ISTQB: Foundation Level (exam in may)
 * Databases: MySQL, SQL
 * Languages: Java, Javascript, Python (basics)
 * Testing: Postman, Webservices, XML, REST, Selenium - basics.
@@ -51,7 +51,7 @@ I am a civil engineer by education. Since 2018, I have been working in the IT in
 
 ## Meetups
 * 3QA #58
-* 3QA #59 (25.04.2023)
+* 3QA #59
 
 ## Webinars
 * Maraton testowania CodeIT
@@ -59,7 +59,8 @@ I am a civil engineer by education. Since 2018, I have been working in the IT in
 
 ## Blogs read
 
-* [testerzy.pl](http://testerzy.pl)
+* testerzy.pl(http://testerzy.pl)
+* amberteam.pl (https://www.amberteam.pl/blog/)
 
 ## My Test Documentation
 * Bug Reports
