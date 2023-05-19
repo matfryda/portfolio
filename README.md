@@ -38,10 +38,11 @@ I am a civil engineer by education. Since 2018, I have been working in the IT in
 * Automatyzacja testów: Selenium WebDriver Java od podstaw (in progress)
 
 ## Technical Books read
+* Sylabus ISTQB
 * A. Roman, L. Stapp: "Certyfikowany tester istqb poziom podstawowy"
 * M. Dawson: "Python dla każdego - podstawy programowania" 
 * P. Deitel, H. Deitel, A Wald: "Android 6 dla programistów - techniki tworzenia aplikacji"
-* R. Podraza "ścieżka testera"
+* R. Podraza: "Ścieżka testera"
 * L. Badurowicz: "Mental Edge"
 
 ## Groups for knowledge gathering
