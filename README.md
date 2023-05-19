@@ -41,6 +41,7 @@ I am a civil engineer by education. Since 2018, I have been working in the IT in
 * A. Roman, L. Stapp: "Certyfikowany tester istqb poziom podstawowy"
 * M. Dawson: "Python dla każdego - podstawy programowania" 
 * P. Deitel, H. Deitel, A Wald: "Android 6 dla programistów - techniki tworzenia aplikacji"
+* R. Podraza "ścieżka testera"
 * L. Badurowicz: "Mental Edge"
 
 ## Groups for knowledge gathering
@@ -52,6 +53,7 @@ I am a civil engineer by education. Since 2018, I have been working in the IT in
 ## Meetups
 * 3QA #58
 * 3QA #59
+* 3QA #60
 
 ## Webinars
 * Maraton testowania CodeIT
@@ -62,9 +64,4 @@ I am a civil engineer by education. Since 2018, I have been working in the IT in
 * testerzy.pl(http://testerzy.pl)
 * amberteam.pl (https://www.amberteam.pl/blog/)
 
-## My Test Documentation
-* Bug Reports
-* Test Reports
-* Test Cases
-* Test Scenarios
 
